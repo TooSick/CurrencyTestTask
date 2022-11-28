@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vN4oEamcYAaVWMFmNlZJYtcLkofq5X0iGqUI2gpTix8=",
+  "Source": "Currency.WebApi",
+  "BasePath": "_content/Currency.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

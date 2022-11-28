@@ -1,0 +1,17 @@
+D:\Projects\Currency\Currency.Backend\Currency.BLL\bin\Debug\net6.0\Currency.BLL.deps.json
+D:\Projects\Currency\Currency.Backend\Currency.BLL\bin\Debug\net6.0\Currency.BLL.dll
+D:\Projects\Currency\Currency.Backend\Currency.BLL\bin\Debug\net6.0\Currency.BLL.pdb
+D:\Projects\Currency\Currency.Backend\Currency.BLL\bin\Debug\net6.0\Currency.DAL.dll
+D:\Projects\Currency\Currency.Backend\Currency.BLL\bin\Debug\net6.0\Currency.Domain.dll
+D:\Projects\Currency\Currency.Backend\Currency.BLL\bin\Debug\net6.0\Currency.DAL.pdb
+D:\Projects\Currency\Currency.Backend\Currency.BLL\bin\Debug\net6.0\Currency.Domain.pdb
+D:\Projects\Currency\Currency.Backend\Currency.BLL\obj\Debug\net6.0\Currency.BLL.csproj.AssemblyReference.cache
+D:\Projects\Currency\Currency.Backend\Currency.BLL\obj\Debug\net6.0\Currency.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Currency\Currency.Backend\Currency.BLL\obj\Debug\net6.0\Currency.BLL.AssemblyInfoInputs.cache
+D:\Projects\Currency\Currency.Backend\Currency.BLL\obj\Debug\net6.0\Currency.BLL.AssemblyInfo.cs
+D:\Projects\Currency\Currency.Backend\Currency.BLL\obj\Debug\net6.0\Currency.BLL.csproj.CoreCompileInputs.cache
+D:\Projects\Currency\Currency.Backend\Currency.BLL\obj\Debug\net6.0\Currency.BLL.csproj.CopyComplete
+D:\Projects\Currency\Currency.Backend\Currency.BLL\obj\Debug\net6.0\Currency.BLL.dll
+D:\Projects\Currency\Currency.Backend\Currency.BLL\obj\Debug\net6.0\refint\Currency.BLL.dll
+D:\Projects\Currency\Currency.Backend\Currency.BLL\obj\Debug\net6.0\Currency.BLL.pdb
+D:\Projects\Currency\Currency.Backend\Currency.BLL\obj\Debug\net6.0\ref\Currency.BLL.dll
